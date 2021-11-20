@@ -2,6 +2,11 @@
 
 A Quasar Framework app
 
+## Customization by Breanne Beutler
+- added actual profile picture and profile name
+- customized the right pane to show real trending stories
+- customized about page to reflect Twitter about page
+
 ## Install the dependencies
 ```bash
 npm install
